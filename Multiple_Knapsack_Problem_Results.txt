@@ -1,0 +1,38 @@
+Time = 0.17
+Total Packed Value (Obj value) = 395.0
+Solver Status is = ok
+Termination Condition is = optimal
+ 
+Bin  0
+Item:   4  - weight:  36  value:  35
+Item:   8  - weight:  36  value:  30
+Item:   9  - weight:  24  value:  35
+Packed bin weight:  96
+Packed bin value:  100
+ 
+Bin  1
+Item:   7  - weight:  42  value:  40
+Item:   13  - weight:  36  value:  30
+Packed bin weight:  78
+Packed bin value:  70
+ 
+Bin  2
+Item:   1  - weight:  30  value:  30
+Item:   10  - weight:  30  value:  45
+Item:   14  - weight:  36  value:  25
+Packed bin weight:  96
+Packed bin value:  100
+ 
+Bin  3
+Item:   3  - weight:  36  value:  50
+Item:   5  - weight:  48  value:  30
+Packed bin weight:  84
+Packed bin value:  80
+ 
+Bin  4
+Item:   2  - weight:  42  value:  25
+Item:   12  - weight:  42  value:  20
+Packed bin weight:  84
+Packed bin value:  45
+ 
+Total packed weight:  438
